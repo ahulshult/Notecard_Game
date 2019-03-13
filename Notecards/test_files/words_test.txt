@@ -1,0 +1,2 @@
+accept	accettare
+allow	permettere
